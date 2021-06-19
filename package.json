@@ -1,0 +1,19 @@
+{
+  "name": "github_dom",
+  "version": "1.0.0",
+  "description": "github_dom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WHshmily/github_dom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WHshmily/github_dom/issues"
+  },
+  "homepage": "https://github.com/WHshmily/github_dom#readme"
+}
